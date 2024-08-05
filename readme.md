@@ -4,6 +4,8 @@ This project is a recreation of the Amazon e-commerce website using JavaScript, 
 
 <img width="600" alt="Screenshot 2024-08-05 at 9 13 10 AM" src="https://github.com/user-attachments/assets/e5148fdf-e947-41e4-8ae9-bbc14218282d">
 
+
+
 <img width="600" alt="Screenshot 2024-08-05 at 9 13 37 AM" src="https://github.com/user-attachments/assets/c8cbf661-e790-4402-aa2d-4e214887b266">
 
 ## Features
