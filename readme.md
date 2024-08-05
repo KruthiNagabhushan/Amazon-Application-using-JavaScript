@@ -29,9 +29,9 @@ This project is a recreation of the Amazon e-commerce website using JavaScript, 
    git clone https://github.com/KruthiNagabhushan/Amazon-Application-using-JavaScript
 
 2. Navigate to the project directory:
-```bash 
-    cd Amazon-Application-using-JavaScript
-```
+    ```bash 
+        cd Amazon-Application-using-JavaScript
+    ```
 
 3. Open amazon.html in your browser to view the website.
 
