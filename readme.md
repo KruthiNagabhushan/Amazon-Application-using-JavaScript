@@ -1,12 +1,10 @@
 # Amazon E-Commerce Website Clone
 
-This project is a recreation of the Amazon e-commerce website using JavaScript, HTML, and CSS. It includes features such as adding products to the shopping cart, removing products, and calculating the total amount in real-time.
+This project is a recreation of the Amazon e-commerce website using JavaScript, HTML, and CSS. It includes features such as adding products to the shopping cart, removing products, and calculating the total amount in real time.
 
-![Alt text](<Screenshot 2024-08-05 at 9.13.10 AM.png>)
+<img width="600" alt="Screenshot 2024-08-05 at 9 13 10 AM" src="https://github.com/user-attachments/assets/e5148fdf-e947-41e4-8ae9-bbc14218282d">
 
-![Alt text](<Screenshot 2024-08-05 at 9.13.37 AM.png>)
-
-
+<img width="600" alt="Screenshot 2024-08-05 at 9 13 37 AM" src="https://github.com/user-attachments/assets/c8cbf661-e790-4402-aa2d-4e214887b266">
 
 ## Features
 
